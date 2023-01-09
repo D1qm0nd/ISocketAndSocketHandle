@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ISocketAndSocketHandle": {
+      "commandName": "Project",
+      "commandLineArgs": "192.168.1.64 55555 1 server"
+    }
+  }
+}
